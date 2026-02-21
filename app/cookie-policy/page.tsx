@@ -11,7 +11,7 @@ export default function CookiePolicy() {
   return (
     <main className="min-h-screen">
       <Navbar />
-      
+
       {/* Hero Section */}
       <section className="pt-32 pb-16 px-4 sm:px-6 lg:px-8 bg-primary text-white">
         <div className="max-w-7xl mx-auto text-center">
@@ -151,7 +151,7 @@ export default function CookiePolicy() {
               <p className="text-gray-700 mb-4">
                 You have the right to decide whether to accept or reject cookies. You can manage your cookie preferences through:
               </p>
-              
+
               <div className="space-y-4">
                 <div className="bg-blue-50 border-2 border-blue-200 rounded-2xl p-6">
                   <h3 className="font-bold text-gray-800 mb-2">Browser Settings</h3>
@@ -199,10 +199,10 @@ export default function CookiePolicy() {
                   <strong>Email:</strong> privacy@gstbaba.com
                 </p>
                 <p className="text-gray-700 mb-2">
-                  <strong>Phone:</strong> +91 123 456 7890
+                  <strong>Phone:</strong> +91 7878787878
                 </p>
                 <p className="text-gray-700">
-                  <strong>Address:</strong> Mumbai, Maharashtra, India
+                  <strong>Address:</strong> Renukoot, UP - 231217
                 </p>
               </div>
             </div>

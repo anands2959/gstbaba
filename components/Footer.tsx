@@ -53,6 +53,7 @@ export default function Footer() {
               <li><a href="/faqs" className="text-gray-400 hover:text-white transition-colors text-sm">FAQs</a></li>
               <li><a href="/support" className="text-gray-400 hover:text-white transition-colors text-sm">Support</a></li>
               <li><a href="/privacy-policy" className="text-gray-400 hover:text-white transition-colors text-sm">Privacy Policy</a></li>
+              <li><a href="/delete-account" className="text-gray-400 hover:text-white transition-colors text-sm">Delete Account</a></li>
             </ul>
           </div>
 
@@ -98,6 +99,7 @@ export default function Footer() {
             <div className="flex gap-6">
               <a href="/terms-of-service" className="text-sm text-gray-400 hover:text-white transition-colors">Terms of Service</a>
               <a href="/privacy-policy" className="text-sm text-gray-400 hover:text-white transition-colors">Privacy Policy</a>
+              <a href="/delete-account" className="text-sm text-gray-400 hover:text-white transition-colors">Delete Account</a>
               <a href="/cookie-policy" className="text-sm text-gray-400 hover:text-white transition-colors">Cookie Policy</a>
             </div>
           </div>

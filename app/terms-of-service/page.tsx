@@ -11,7 +11,7 @@ export default function TermsOfService() {
   return (
     <main className="min-h-screen">
       <Navbar />
-      
+
       {/* Hero Section */}
       <section className="pt-32 pb-16 px-4 sm:px-6 lg:px-8 bg-primary text-white">
         <div className="max-w-7xl mx-auto text-center">
@@ -179,7 +179,7 @@ export default function TermsOfService() {
                   <strong>Phone:</strong> +91 123 456 7890
                 </p>
                 <p className="text-gray-700">
-                  <strong>Address:</strong> Mumbai, Maharashtra, India
+                  <strong>Address:</strong> Renukoot, UP - 231217
                 </p>
               </div>
             </div>
