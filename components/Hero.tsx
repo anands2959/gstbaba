@@ -32,19 +32,19 @@ export default function Hero() {
               </button>
             </div>
 
-            {/* Stats */}
-            <div className="grid grid-cols-3 gap-6">
+            {/* Highlights */}
+            <div className="grid grid-cols-3 gap-4 sm:gap-6">
               <div>
-                <div className="text-3xl font-bold text-primary mb-1">50K+</div>
-                <div className="text-sm text-gray-500 font-medium">Active Users</div>
+                <div className="text-lg sm:text-2xl font-bold text-primary mb-1 leading-tight">GST Expert AI</div>
+                <div className="text-[10px] sm:text-sm text-gray-500 font-medium uppercase tracking-wider">Smart Analysis</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-primary mb-1">4.8★</div>
-                <div className="text-sm text-gray-500 font-medium">App Rating</div>
+                <div className="text-lg sm:text-2xl font-bold text-primary mb-1 leading-tight">Offline Ready</div>
+                <div className="text-[10px] sm:text-sm text-gray-500 font-medium uppercase tracking-wider">Work Anywhere</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-primary mb-1">1M+</div>
-                <div className="text-sm text-gray-500 font-medium">Calculations</div>
+                <div className="text-lg sm:text-2xl font-bold text-primary mb-1 leading-tight">Full Secure</div>
+                <div className="text-[10px] sm:text-sm text-gray-500 font-medium uppercase tracking-wider">Data Privacy</div>
               </div>
             </div>
           </div>
